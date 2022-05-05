@@ -1,0 +1,50 @@
+body
+{
+    background-color: #E9ECEF ;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+.image-box
+{
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+    
+}
+.pic{
+    width: 100%;
+}
+.card-img-top
+{
+    min-width: 100px;
+    max-width: 100px;
+    height: auto;
+}
+
+main.container
+{
+    padding: 50px;
+}
+
+#link
+{
+    text-decoration: none;
+    font-style: italic;
+    color: yellowgreen;
+}
+
+h4{
+    margin-left: 75px;
+    color: yellowgreen;
+}
+.color-purple{
+    color: purple;
+}
+
+.box{
+    text-align: center;
+}
